@@ -26,6 +26,8 @@
 | [myvrs-content-lab](https://github.com/joengeunjumer/myvrs-content-lab) | XR 콘텐츠 제작을 위한 프롬프트 엔지니어링 문서·워크플로우 다이어그램 모음 | Prompt Engineering · n8n · Weavy |
 | [venue-market-analysis-toolkit](https://github.com/joengeunjumer/venue-market-analysis-toolkit) | 상권분석을 위한 인터랙티브 지도 도구 (마커 DB·필터·편집 패널을 단일 HTML로) | JavaScript · Leaflet |
 
+> 🔒 공개 저장소에는 기술 설명·스크린샷·데모를 정리했고, **전체 소스 코드는 프로젝트별 private 저장소로 관리**합니다. 코드 열람이 필요하시면 이메일로 연락 주세요.
+
 ## 🎨 AI × 건축 디자인 워크
 
 코드 외에도 ChatGPT·Gemini(Nano Banana)·Enscape를 활용한 건축 시각화 프로젝트를 진행했습니다:
