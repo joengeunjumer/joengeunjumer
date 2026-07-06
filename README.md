@@ -17,15 +17,13 @@ During a 16-week internship at **Scale Architecture / Scale Virtual** (Seoul-bas
 
 | Repository | What it is | Stack |
 |---|---|---|
-| [myvrs-pipeline](https://github.com/joengeunjumer/myvrs-pipeline) | Full-stack app orchestrating Claude · Gemini · Kie.ai to auto-generate multi-frame XR dance videos | Next.js 16 · React 19 · TypeScript · Supabase · FFmpeg |
+| [myvrs-pipeline](https://github.com/joengeunjumer/myvrs-pipeline) | AI content-creation platform orchestrating Claude · Gemini · Kie.ai — **[live app](https://myvrs-pipeline.vercel.app/)** — plus the prompt-engineering lab behind it | Next.js 16 · React 19 · TypeScript · Supabase · FFmpeg |
 | [archi-prompt-builder](https://github.com/joengeunjumer/archi-prompt-builder) | Korean architectural brief → structured rendering prompts for Gemini/ChatGPT (58 use cases, 6-slot prompt engine) | Vanilla JS · Canvas API |
-| [scale-arch-ai-agent](https://github.com/joengeunjumer/scale-arch-ai-agent) | One Korean sentence → AI aerial view + SVG floor plan + PDF slides (citizen workshop demo) | Python · Gradio · Claude API · Gemini · Playwright |
 | [scale-build-jitda](https://github.com/joengeunjumer/scale-build-jitda) | Facade-renovation marketing lead engine + government open-data pipeline | HTML/JS · Python · Supabase · Kakao/Naver Maps |
+| [venue-market-analysis-toolkit](https://github.com/joengeunjumer/venue-market-analysis-toolkit) | Seoul facade check-map — 3,268 geocoded candidate buildings in a single-file field-survey tool | JavaScript · Kakao Maps SDK |
 | [scale-website](https://github.com/joengeunjumer/scale-website) | Architecture studio website — Hugo-to-Next.js migration with automated asset cataloging | Next.js · TypeScript · CSS Modules |
-| [myvrs-content-lab](https://github.com/joengeunjumer/myvrs-content-lab) | Prompt-engineering methodology & workflow diagrams for AI-generated XR content | Prompt Engineering · n8n · Weavy |
-| [venue-market-analysis-toolkit](https://github.com/joengeunjumer/venue-market-analysis-toolkit) | Interactive market-analysis map — marker DB, filters, and in-map editing in a single HTML file | JavaScript · Leaflet |
 
-> 🔒 Public repositories carry the tech overview, screenshots, and demos. **Full source code is kept in private repositories** — available on request.
+> 🔒 Public repositories carry the tech overview, screenshots, and live demos. **Full source code is kept in private repositories** — available on request.
 
 ## 🎨 AI × Architectural Design Work
 
